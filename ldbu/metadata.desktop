@@ -1,0 +1,11 @@
+[SddmGreeterTheme]
+Name=LDBU
+Description=SDDM theme for LittleDogBigUniverse
+License=CC-BY-SA
+Type=sddm-theme
+Version=0.1
+Screenshot=screenshot.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+Theme-Id=ldbu
+Theme-API=2.0
